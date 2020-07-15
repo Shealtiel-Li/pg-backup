@@ -1,0 +1,7 @@
+pg:
+  user: thinknet
+  password: p2m134576
+  containerName: shealtiel-postgres
+  port: 5432
+  database: sxdqt_aladdin_dev
+  dumpDir: /usr/bin/pg_dump

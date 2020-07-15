@@ -1,0 +1,7 @@
+pg:
+  user: PG_USER
+  password: PG_PASSWORD
+  containerName: PG_CONTAINER_NAME
+  port: PG_PORT
+  dumpDir: /usr/bin/pgdump
+  database: PG_DATABASE
